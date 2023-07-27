@@ -45,10 +45,20 @@ POST to /convert
 }
 ```
 Possible opertions:
-USD/KZT convert from USD to KZT, 
+
+USD/KZT convert from USD to KZT,
+
 RUB/KZT convert from RUB to KZT, 
+
 KZT/USD convert from KZT to USD,
+
 KZT/RUB convert from KZT to RUB
+
+Screenshots 
+
+
+<img width="900" alt="image" src="https://github.com/OneStep55/TestApp/assets/62651026/2adaa4c8-7786-42fd-be48-8dbe455dd68b">
+
 
 
 
