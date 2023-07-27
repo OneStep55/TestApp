@@ -1,7 +1,7 @@
 # TestApp
-This app contains two Service, to run this application you will need node js and rabbit mq installed in your machine
+This app contains two Service, to run this application you will need node js, rabbitMQ and nodemon installed in your machine
 
-To run this app you will need to start two Services, rabbitMQ server and nodemon.
+To run this app you will need to start two Services, rabbitMQ server.
 
  
 ### To run serivce1 you need
